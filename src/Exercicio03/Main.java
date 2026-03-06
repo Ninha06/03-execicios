@@ -18,8 +18,8 @@ public class Main {
 
 
         }
-        System.out.printf("Professor(a):", pro.nome);
-        System.out.printf("Salário Bruto: R$", pro.calcularSalarioBruto());
+        System.out.printf("Professor(a):"+ pro.nome);
+        System.out.printf("Salário Bruto: R$"+ pro.calcularSalarioBruto());
 
     }
 }
